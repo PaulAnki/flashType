@@ -1,0 +1,15 @@
+.footer-conatiner {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  background: #1d2020;
+  box-shadow: 0 1px 3px rgb(0, 0, 0, 0.12), 0 1px 2px rgb(0, 0, 0, 0.26);
+  z-index: 99;
+}
+
+.footer-link {
+  font-size: 26px;
+  margin: 10px;
+  color: #e7e6e7;
+  text-align: center;
+}
